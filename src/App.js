@@ -5,7 +5,7 @@ function App() {
       <p>Leiziane Trevisan Dardin 459656</p>
       <p>Ingrid Tufani Savioli</p>
       <p>Sabrina Johanna Zimmer</p>
-      <p>Patricia Diniz Magalhaes</p>
+      <p>Patricia Diniz Magalhaes 448624</p>
     </div>
   );
 }
